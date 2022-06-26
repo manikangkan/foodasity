@@ -1,9 +1,20 @@
+# Food deliver webapp
+
+## 📜 Screenshots
+![Screenshot (61)](https://user-images.githubusercontent.com/75943412/175833234-09da3b1e-a7bf-49b8-9647-6819735ab12e.png)
+
+## 🏗️ Building With
+
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Node.js](https://tailwindcss.com/)
+- [MongoDB](https://tailwindcss.com/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## 💥 Getting Started
 
 First, run the development server:
-
 ```bash
 npm run dev
 # or
@@ -32,3 +43,30 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## 💁🏻‍♂️ Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch `git checkout -b feature/AmazingFeature`
+3. Commit your Changes `git commit -m 'Add some AmazingFeature'`
+4. Push to the Branch `git push origin feature/AmazingFeature`
+5. Open a Pull Request
+
+<!-- LICENSE -->
+
+## ©️ License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<!-- CONTACT -->
+
+## 🤝 Contact
+
+Author Info - [@manikankandas](https://linkedin.com/in/manikangkandas) - manikangkan.das@outlook.com
+<br />
+Project Link - [https://github.com/manikangkandas/portfolio](https://github.com/manikangkandas/portfolio)
