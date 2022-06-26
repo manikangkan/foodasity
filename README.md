@@ -69,4 +69,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Author Info - [@manikankandas](https://linkedin.com/in/manikangkandas) - manikangkan.das@outlook.com
 <br />
-Project Link - [https://github.com/manikangkandas/portfolio](https://github.com/manikangkandas/portfolio)
+Project Link - [https://github.com/manikangkandas/foodasity](https://github.com/manikangkandas/foodasity)
